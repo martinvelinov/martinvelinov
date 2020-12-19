@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<!--
+- 🔭 I’m currently working on a fitness studio website
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on Front End Projects
+- 🤔 I’m looking for help with getting freelance clients
+- 💬 Ask me about anything
+- 📫 How to reach me: martin.velinov24@hotmail.com
+
+
 **martinvelinov/martinvelinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
