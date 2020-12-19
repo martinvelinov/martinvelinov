@@ -8,7 +8,7 @@
 - 📫 How to reach me: martin.velinov24@hotmail.com
 
 
-**martinvelinov/martinvelinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**martinvelinov/martinvelinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
