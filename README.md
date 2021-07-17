@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a fitness studio website
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on a React project
+- 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on Front End Projects
 - 🤔 I’m looking for help with getting freelance clients
 - 💬 Ask me about anything
-- 📫 How to reach me: martin.velinov24@hotmail.com
+- 📫 How to reach me: DM https://twitter.com/MartinVelinov6
 
 
 <!--**martinvelinov/martinvelinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
